@@ -1,0 +1,19 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# 仮想環境
+env/
+.venv/
+venv/
+
+# ログ
+logs/
+*.log
+
+# 設定
+.env
+.chroma/
+.vscode/
+.idea/
+.DS_Store

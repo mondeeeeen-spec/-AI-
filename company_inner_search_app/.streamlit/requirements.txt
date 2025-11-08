@@ -40,3 +40,17 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+tiktoken
+pypdf
+docx2txt
+python-docx
+requests
+beautifulsoup4
+pandas

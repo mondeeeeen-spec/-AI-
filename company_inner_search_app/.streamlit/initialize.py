@@ -19,7 +19,7 @@ import streamlit as st
 from langchain_community.document_loaders import (
     WebBaseLoader, PyPDFLoader, Docx2txtLoader, CSVLoader, TextLoader
 )
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=ct.CHUNK_SIZE,
